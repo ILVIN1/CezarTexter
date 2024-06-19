@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CezarTx">
+    <output-path>$PROJECT_DIR$/out/artifacts/CezarTx</output-path>
+    <root id="archive" name="CezarTx.jar">
+      <element id="module-output" name="CezarTexter" />
+    </root>
+  </artifact>
+</component>
